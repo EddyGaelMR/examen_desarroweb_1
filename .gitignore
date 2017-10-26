@@ -1,0 +1,4 @@
+venv
+.pyp
+*venv
+*.pyp
